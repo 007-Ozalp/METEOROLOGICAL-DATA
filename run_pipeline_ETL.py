@@ -1,6 +1,6 @@
 
 ## python run_pipeline_ETL.py <file1.csv> <file2.csv> --merge_column IDSTATION --output_dir ./out --region EU
-
+ 
 
 import pandas as pd
 import argparse
